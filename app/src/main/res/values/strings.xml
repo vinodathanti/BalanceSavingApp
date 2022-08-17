@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BalanceSavingApp</string>
+    <string name="save_your_balance">Save your \n balance</string>
+    <string name="description">Best solution to save your \n balance and transactions</string>
+    <string name="super_bank">SUPER BANK</string>
+    <string name="get_started">Get Started</string>
+</resources>
