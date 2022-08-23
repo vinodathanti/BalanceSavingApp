@@ -58,10 +58,12 @@
 
     <Button
         android:id="@+id/bt_start"
-        android:layout_width="226dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:background="@drawable/custom_button"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="50dp"
+        android:background="@color/custom_color"
         android:text="@string/get_started"
         android:textAllCaps="false"
         app:layout_constraintEnd_toEndOf="parent"
